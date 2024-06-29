@@ -13,6 +13,8 @@ Mentor - SARAVANI GOUNI
 
 ## Overview of the Project - Weather Forecast Web Application
 
+![image](https://github.com/Kab1rAnand/CODTECH-Task1/assets/158201577/3355a948-ce5c-45f4-8c1a-5737b4013ec3)
+
 ### Project Description -
 
 - **The Weather Forecast Web Application provides real-time weather information for any city entered by the user. It uses HTML for the structure, CSS for styling, and JavaScript for fetching and displaying weather data from the OpenWeatherMap API.**
@@ -35,5 +37,5 @@ Mentor - SARAVANI GOUNI
 - **Display Data**: The weather data (temperature, humidity, wind speed, weather icon) is displayed in the UI.
 This overview provides a comprehensive understanding of how the Weather Forecast Web Application is structured and functions using HTML, CSS, and JavaScript.
 
-![image](https://github.com/Kab1rAnand/CODTECH-Task1/assets/158201577/787f4db6-525a-4795-a6e1-15978bb5336c)
+
 
