@@ -34,3 +34,6 @@ Mentor - SARAVANI GOUNI
 - **Fetch Data**: The JavaScript fetches the weather data for the entered city using the OpenWeatherMap API.
 - **Display Data**: The weather data (temperature, humidity, wind speed, weather icon) is displayed in the UI.
 This overview provides a comprehensive understanding of how the Weather Forecast Web Application is structured and functions using HTML, CSS, and JavaScript.
+
+![image](https://github.com/Kab1rAnand/CODTECH-Task1/assets/158201577/787f4db6-525a-4795-a6e1-15978bb5336c)
+
