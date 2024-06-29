@@ -1,8 +1,13 @@
-Name - Kabir Anand Yadav 
+Name - Kabir Anand Yadav
+
 Company - CODTECH IT SOLUTIONS 
+
 ID - CTI12WD175
+
 Domain - WEB DEVELOPMENT 
+
 Duration - 14th May to 1st July 2024 
+
 Mentor - SARAVANI GOUNI
 
 
